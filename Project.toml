@@ -1,0 +1,7 @@
+name = "Traplana"
+uuid = "90d358cc-388d-4d10-9002-5db5f654aff5"
+authors = ["Stephan Scholz"]
+version = "0.1.0"
+
+[compat]
+julia = "1.9"
